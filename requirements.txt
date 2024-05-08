@@ -1,0 +1,6 @@
+Flask==2.2.2
+numpy==1.23.2
+opencv_python==4.6.0.66
+pandas==1.4.4
+pyodbc==4.0.34
+Werkzeug==2.2.2
