@@ -11,5 +11,3 @@ Attendance management can be a significant burden on the teachers if it is done 
 <div><img src="https://github.com/MANYAJAIN195/face-recognition/assets/71972339/b8e7f8d7-8bce-4248-a6ce-78f362441335" width="80%" /></div>
 
 <div><img src="https://github.com/MANYAJAIN195/face-recognition/assets/71972339/392ead30-2bd3-47ac-b92b-dae23edc2ea1" width="80%" /></div>
-
-<div><img src="https://github.com/MANYAJAIN195/face-recognition/assets/71972339/8c59e3e2-4101-47b4-aad2-3d838257e475" width="80%" /></div>
